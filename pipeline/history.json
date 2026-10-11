@@ -1,0 +1,38 @@
+[
+  {
+    "timestamp": "2026-02-15T12:00:00Z",
+    "total_videos": 12,
+    "passed": 2,
+    "warnings": 4,
+    "failed": 6,
+    "health_score": 33.3,
+    "note": "Initial baseline audit"
+  },
+  {
+    "timestamp": "2026-02-22T15:30:00Z",
+    "total_videos": 12,
+    "passed": 2,
+    "warnings": 5,
+    "failed": 5,
+    "health_score": 37.5,
+    "note": "Updated descriptions on 2 videos"
+  },
+  {
+    "timestamp": "2026-03-01T18:00:00Z",
+    "total_videos": 12,
+    "passed": 3,
+    "warnings": 4,
+    "failed": 5,
+    "health_score": 41.7,
+    "note": "Added custom thumbnail to mechanical keyboard video"
+  },
+  {
+    "timestamp": "2026-03-08T14:15:00Z",
+    "total_videos": 12,
+    "passed": 3,
+    "warnings": 5,
+    "failed": 4,
+    "health_score": 45.8,
+    "note": "Pre-flight audit for weekly upload batch"
+  }
+]

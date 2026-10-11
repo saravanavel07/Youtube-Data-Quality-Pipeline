@@ -1,0 +1,6 @@
+{
+  "name": "YouTube Data Quality Pipeline",
+  "description": "A practical monitoring and data quality pipeline for YouTube creators to catch metadata gaps, missing thumbnails, and engagement anomalies.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
